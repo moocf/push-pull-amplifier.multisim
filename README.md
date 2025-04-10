@@ -16,3 +16,5 @@ direction through through the load.
 ![](Results/05.%20DC%20Bias%20Circuit.png)<br>
 ![](Results/06.%20DC%20Bias%20Measurement.png)<br>
 ![](Results/07.%20Power%20Measurement.png)<br>
+
+![](https://ga-beacon.deno.dev/G-G1E8HNDZYY:v51jklKGTLmC3LAZ4rJbIQ/github.com/moocf/push-pull-amplifier.multisim)
